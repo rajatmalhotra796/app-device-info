@@ -74,5 +74,6 @@
     "android": {
       "src": "android"
     }
-  }
+  },
+  "dependencies": {}
 }

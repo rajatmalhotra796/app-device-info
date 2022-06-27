@@ -79,6 +79,13 @@ export interface DeviceInfo {
     localModel: string;
 
     /**
+     * The current device model.
+     *
+     * @since 1.0.0
+     */
+    currentDeviceModel: string;
+
+    /**
      * The device platform (lowercase).
      *
      * @since 1.0.0
